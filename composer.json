@@ -1,5 +1,5 @@
 {
-    "name": "fabwnklr/php-mvc-core",
+    "name": "fabwnklr/fat",
     "autoload": {
         "psr-4": {
             "Fabwnklr\\PhpMvcCore\\": "src/"
