@@ -1,0 +1,15 @@
+{
+    "name": "fabwnklr/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Fabwnklr\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabien Winkler",
+            "email": "fabien.winkler@outlook.fr"
+        }
+    ],
+    "require": {}
+}
