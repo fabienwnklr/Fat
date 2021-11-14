@@ -2,7 +2,7 @@
     "name": "fabwnklr/fat",
     "autoload": {
         "psr-4": {
-            "fabwnklr\\fat\\": "src/"
+            "fabwnklr\\fat\\": "."
         }
     },
     "authors": [
