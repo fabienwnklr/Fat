@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace fabwnklr\fat\form;
 
-use app\core\Model;
+use fabwnklr\fat\Model;
 
 abstract class BaseField
 {

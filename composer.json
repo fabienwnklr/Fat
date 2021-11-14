@@ -2,7 +2,7 @@
     "name": "fabwnklr/fat",
     "autoload": {
         "psr-4": {
-            "Fabwnklr\\PhpMvcCore\\": "src/"
+            "fabwnklr\\fat\\": "src/"
         }
     },
     "authors": [

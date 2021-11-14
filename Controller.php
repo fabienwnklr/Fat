@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace fabwnklr\fat;
 
-use app\core\middlewares\BaseMiddleware;
+use fabwnklr\fat\middlewares\BaseMiddleware;
 
 class Controller
 {

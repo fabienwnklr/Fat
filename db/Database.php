@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace fabwnklr\fat\db;
 
 use PDO;
-use app\core\Application;
+use fabwnklr\fat\Application;
 
 /**
  * Database class

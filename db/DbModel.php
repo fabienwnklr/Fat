@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace fabwnklr\fat\db;
 
-use app\core\Model;
-use app\core\Application;
+use fabwnklr\fat\Model;
+use fabwnklr\fat\Application;
 
 abstract class DbModel extends Model
 {

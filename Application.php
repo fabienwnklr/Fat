@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core;
+namespace fabwnklr\fat;
 
-use app\core\db\DbModel;
-use app\core\db\Database;
+use fabwnklr\fat\db\DbModel;
+use fabwnklr\fat\db\Database;
 
 /**
  * Class Application
  * 
  * @author Fabien <fabien.winkler@outlook.fr>
- * @package app\core
+ * @package fabwnklr\fat
  */
 class Application
 {

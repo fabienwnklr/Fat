@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace fabwnklr\fat;
 
 abstract class Model
 {

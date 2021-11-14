@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace fabwnklr\fat\middlewares;
 
 abstract class BaseMiddleware
 {

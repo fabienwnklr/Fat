@@ -1,18 +1,18 @@
 <?php
 
-namespace app\core;
+namespace fabwnklr\fat;
 
-use app\core\exeption\ForbidenException;
-use app\core\exeption\NotFoundException;
-use app\core\Request;
-use app\core\Response;
-use app\core\middlewares\BaseMiddleware;
+use fabwnklr\fat\exeption\ForbidenException;
+use fabwnklr\fat\exeption\NotFoundException;
+use fabwnklr\fat\Request;
+use fabwnklr\fat\Response;
+use fabwnklr\fat\middlewares\BaseMiddleware;
 
 /**
  * Class Router
  * 
  * @author Fabien <fabien.winkler@outlook.fr>
- * @package app\core
+ * @package fabwnklr\fat
  */
 class Router
 {
@@ -24,8 +24,8 @@ class Router
     /**
      * Router constructor.
      * 
-     * @param app\core\Request $request
-     * @param app\core\Response $response
+     * @param fabwnklr\fat\Request $request
+     * @param fabwnklr\fat\Response $response
      */
     function __construct(Request $request, Response $response)
     {

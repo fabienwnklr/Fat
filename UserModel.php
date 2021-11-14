@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace fabwnklr\fat;
 
-use app\core\db\DbModel;
+use fabwnklr\fat\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

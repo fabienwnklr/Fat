@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace fabwnklr\fat\middlewares;
 
-use app\core\Application;
-use app\core\exeption\ForbidenException;
+use fabwnklr\fat\Application;
+use fabwnklr\fat\exeption\ForbidenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

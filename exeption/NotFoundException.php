@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exeption;
+namespace fabwnklr\fat\exeption;
 
 class NotFoundException extends \Exception
 {

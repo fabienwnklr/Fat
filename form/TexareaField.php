@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace fabwnklr\fat\form;
 
 class TexareaField extends BaseField
 {
